@@ -1,0 +1,16 @@
+	RESULTADOS DE CLASIFICACIÓN CON EL LINEAR ASSOCIATOR
+
+-CONJUNTO FUNDAMENTAL COMPLETO:
+	El clasificador obtuvo: 50 buenas
+	El performance es de 33.3333%
+	El factor de olvido es de 66.6667%
+
+-LEAVE-ONE-OUT SIMPLE:
+	El clasificador obtuvo: 50 buenas
+	El performance es de 33.3333%
+	Porcentaje de error: 66.6667%
+
+-LEAVE-ONE-OUT COMPLETO:
+	Total de aciertos = 50
+	El performance total es de 0.2222%
+	Porcentaje de error: 99.7778%

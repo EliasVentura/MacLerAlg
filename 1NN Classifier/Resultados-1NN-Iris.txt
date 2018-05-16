@@ -1,0 +1,16 @@
+	RESULTADOS DE CLASIFICACIÓN CON EL 1NN
+
+-CONJUNTO FUNDAMENTAL COMPLETO:
+	El clasificador obtuvo: 150 buenas
+	El performance es de 100.0000%
+	El factor de olvido es de 0.0000%
+
+-LEAVE-ONE-OUT SIMPLE:
+	El clasificador obtuvo: 144 buenas
+	El performance es de 96.0000%
+	Porcentaje de error: 4.0000%
+
+-LEAVE-ONE-OUT COMPLETO:
+	Total de aciertos = 22494
+	El performance total es de 99.9733%
+	Porcentaje de error: 0.0267%

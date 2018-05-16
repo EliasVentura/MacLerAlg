@@ -1,0 +1,35 @@
+	RESULTADOS DE CLASIFICACIÓN CON LA RED ASOCIATIVA DE WILLSHAW
+
+---PARA UMBRAL U=log2(n)=5, CLASIFICACIÓN U>5
+-CONJUNTO FUNDAMENTAL COMPLETO:
+	El clasificador obtuvo: 0 buenas
+	El performance es de 0.0000%
+	El factor de olvido es de 100.0000%
+
+-LEAVE-ONE-OUT SIMPLE:
+	El clasificador obtuvo: 0 buenas
+	El performance es de 0.0000%
+	El factor de olvido es de 100.0000%
+
+-LEAVE-ONE-OUT COMPLETO:
+	El clasificador obtuvo: 0 buenas
+	El performance es de 0.0000%
+	El factor de olvido es de 100.0000%
+
+
+
+---PARA UMBRAL U=2log2(n)+1=11, CLASIFICACIÓN U>11
+-CONJUNTO FUNDAMENTAL COMPLETO:
+	El clasificador obtuvo: 2 buenas
+	El performance es de 1.3333%
+	El factor de olvido es de 98.6667%
+
+-LEAVE-ONE-OUT SIMPLE:
+	El clasificador obtuvo: 2 buenas
+	El performance es de 1.3333%
+	El factor de olvido es de 98.6667%
+
+-LEAVE-ONE-OUT COMPLETO:
+	El clasificador obtuvo: 300 buenas
+	El performance es de 1.3333%
+	El factor de olvido es de 98.6667%

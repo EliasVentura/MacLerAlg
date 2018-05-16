@@ -1,0 +1,16 @@
+	RESULTADOS DE CLASIFICACIÓN CON LA LERNMATRIX
+
+-CONJUNTO FUNDAMENTAL COMPLETO:
+	El clasificador obtuvo: 125 buenas
+	El performance es de 83.3333%
+	El factor de olvido es de 16.6667%
+
+-LEAVE-ONE-OUT SIMPLE:
+	El clasificador obtuvo: 126 buenas
+	El performance es de 84.0000%
+	El factor de olvido es de 16.0000%
+
+-LEAVE-ONE-OUT COMPLETO:
+	Total de aciertos = 18787
+	El performance total es de 83.4978%
+	El factor de olvido es de 16.5022%

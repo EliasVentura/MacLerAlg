@@ -1,0 +1,22 @@
+		RESULTADOS DE RECUPERACIÓN
+	MEMORIA HETEROASOCIATIVA MORFOLÓGICA MAX
+
+CON:
+  Y1 = Y2 = ... = Y50 =[1 0 0]
+ Y51 = Y52 = ... = Y100 = [0 1 0]
+Y101 = Y102 = ... = Y150 = [0 0 1]
+
+-CONJUNTO FUNDAMENTAL COMPLETO:
+	La Memoria obtuvo: 1 buenas
+	El performance es de 0.6667%
+	El factor de olvido es de 99.3333%
+
+-LEAVE-ONE-OUT SIMPLE:
+	La Memoria obtuvo: 0 buenas
+	El performance es de 0.0000%
+	El error es de 100.0000%
+
+-LEAVE-ONE-OUT COMPLETO:
+	Total de aciertos = 150
+	El performance total es de 0.6667%
+	El error total es de 99.3333%

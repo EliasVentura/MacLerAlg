@@ -1,0 +1,16 @@
+	RESULTADOS DE LA MEMORIA HOPFIELD
+
+-CONJUNTO FUNDAMENTAL COMPLETO:
+	La Memoria obtuvo: 0 buenas
+	El performance es de: 0.0000%
+	El factor de olvido es de 100.0000%
+
+-LEAVE-ONE-OUT SIMPLE:
+	La Memoria obtuvo: 0 buenas
+	El performance es de: 0.0000%
+	Porcentaje de error: 100.0000%
+
+-LEAVE-ONE-OUT COMPLETO:
+	Total de Aciertos: 0 buenas
+	Performance total: 0.0000%
+	Porcentaje de error: 100.0000%

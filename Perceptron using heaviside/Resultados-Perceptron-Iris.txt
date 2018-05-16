@@ -1,0 +1,54 @@
+	RESULTADOS DE CLASIFICACIÓN CON EL PERCEPTRON SIMPLE
+
+Base De Datos Utilizada: Iris Plants
+Los valores iniciales del vector de pesos fueron 0.
+El valor de eta = 1.
+
+---------Clasificación entre la clase 1 y la clase 2---------
+
+-CONJUNTO FUNDAMENTAL COMPLETO (Sí hay convergencia tras 4 épocas):
+	El clasificador obtuvo: 100 buenas
+	El performance es de 100.0000%
+	El factor de olvido es de 0.0000%
+
+-LEAVE-ONE-OUT SIMPLE (Sí hay convergencia tras 4 épocas):
+	El clasificador obtuvo: 100 buenas
+	El performance es de 100.0000%
+	Porcentaje de error: 0.0000%
+
+-LEAVE-ONE-OUT COMPLETO (Sí hay convergencia tras 4 épocas):
+	Total de aciertos = 10000
+	El performance total es de 100.0000%
+	Porcentaje de error: 0.0000%
+
+
+---------Clasificación entre la clase 1 y la clase 3---------
+
+-CONJUNTO FUNDAMENTAL COMPLETO (Sí hay convergencia tras 4 épocas):
+	El clasificador obtuvo: 100 buenas
+	El performance es de 100.0000%
+	El factor de olvido es de 0.0000%
+
+-LEAVE-ONE-OUT SIMPLE (Sí hay convergencia tras 4 épocas):
+	El clasificador obtuvo: 100 buenas
+	El performance es de 100.0000%
+	Porcentaje de error: 0.0000%
+
+-LEAVE-ONE-OUT COMPLETO (Sí hay convergencia tras 4 épocas):
+	Total de aciertos = 10000
+	El performance total es de 100.0000%
+	Porcentaje de error: 0.0000%
+
+
+---------Clasificación entre la clase 2 y la clase 3---------
+
+-CONJUNTO FUNDAMENTAL COMPLETO (No hay convergencia):
+	Después de 10,000 épocas no hubo convergencia
+
+
+-LEAVE-ONE-OUT SIMPLE (No hay convergencia):
+	Después de 10,000 épocas no hubo convergencia
+
+
+-LEAVE-ONE-OUT COMPLETO (No hay convergencia):
+	Después de 10,000 épocas no hubo convergencia
